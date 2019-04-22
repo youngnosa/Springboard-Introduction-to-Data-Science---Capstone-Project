@@ -1,0 +1,10 @@
+Project Proposal
+
+I want to help solving lowering the suicidal rate in the state with the highest suicidal rate combining three different outside factors: 
+average income and cost of living ratio by states, average annual sunlight by states, and population densities by states. My focused 
+clients are states those currently are experiencing high suicidal rates. My clients can use the outcome of this data to come up with 
+assistance programs for residents whose are in needs and come up with a predict model that can predict individuals who are more 
+susceptible to these specific conditions. I was able to acquire these datas using various government websites. During the project, 
+I will be go through 5 different phases: obtain, scrub, explore, model, and interpret. I will be heavily rely on excel and R Studio 
+to obtain and scrub data, and planning to use tableau to interpret my results. My deliverables will include simplified datasets, graphs, 
+chart, and case report. 
