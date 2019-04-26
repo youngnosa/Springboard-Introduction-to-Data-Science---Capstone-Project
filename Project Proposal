@@ -1,10 +1,30 @@
-#Project Proposal
+__Project Proposal__
 
-I want to help solving lowering the suicidal rate in the state with the highest suicidal rate combining three different outside factors: 
-average income and cost of living ratio by states, average annual sunlight by states, and population densities by states. My focused 
-clients are states those currently are experiencing high suicidal rates. My clients can use the outcome of this data to come up with 
-assistance programs for residents whose are in needs and come up with a predict model that can predict individuals who are more 
-susceptible to these specific conditions. I was able to acquire these datas using various government websites. During the project, 
-I will be go through 5 different phases: obtain, scrub, explore, model, and interpret. I will be heavily rely on excel and R Studio 
-to obtain and scrub data, and planning to use tableau to interpret my results. My deliverables will include simplified datasets, graphs, 
-chart, and case report. 
+Combining three different outside factors: 
+Cost of Living Index by states, Average Annual Sunlight by States, and Population Densities by States. 
+
+My focused client is Wyoming Department of Health: Prevention and Health Promotion Unit, PHPU. According to Wyoming Department of Health’s website (https://health.wyo.gov/publichealth/prevention/wivpp/suicide-prevention/), the state has been very actively involved with many different programs including Suicide Prevention Training, Suicide Survivor & Lived Experience Support Groups, Mental Health Professionals, and etc in order to lower the suicidal rate. 
+
+My client can utilize the outcome of this data to support current assistance programs and even come up with new assistance programs for the residents of Wyoming. I am hoping to come up with a predictive model that can identify the correlationship between suicidal rate and any possible outside factors including living index, average annual sunlight by states, population density, and etc, then predict what the suicidal rate is going to be next 5 years if these outside factors are not managed properly.
+I was able to acquire these data using various government, state, and public .org sites:
+
+Leading Causes of Death
+https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
+
+NST-EST2018-alldata: Annual Population Estimates, Estimated Components of Resident Population
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html
+
+washing dc land area
+https://www.google.com/search?q=washing+dc+land+area&rlz=1C1NDCM_enUS831US831&oq=washing+dc+land+area&aqs=chrome..69i57j0l2.5951j0j8&sourceid=chrome&ie=UTF-8
+
+Size of States
+https://statesymbolsusa.org/symbol-official-item/national-us/uncategorized/states-size
+
+Average Annual Sunshine by State
+https://www.currentresults.com/Weather/US/average-annual-state-sunshine.php
+
+Cost of Living Data Series Annual Average 2018
+https://www.missourieconomy.org/indicators/cost_of_living/
+
+During the project, I will be go through 5 different phases: obtain, scrub, explore, model, and interpret. I will be utilizing Excel, R Studio to obtain and scrub data, and planning to use tableau to interpret my results. My deliverables will include simplified datasets, predictive model, data analysis, graphs, chart, and case report. 
+
